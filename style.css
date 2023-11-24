@@ -1,0 +1,55 @@
+.head{
+  width: 98%;  
+  border-radius: 15px;
+  font-size: 35px;
+box-shadow: 10px 15px 17px black;
+font-family: 'Averia Sans Libre', cursive;
+background-color: #B284BE;
+font-weight: bold;
+}
+
+body{
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-image: url("https://e0.pxfuel.com/wallpapers/328/883/desktop-wallpaper-tumblr-laptop-purple-tumblr-laptop-aesthetic-pink-novocom-top-sike.jpg");
+}
+
+.note{
+    font-size: 20px;
+    color: rgb(253, 244, 206);
+    font-weight: lighter;
+
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    background-color: #ba4462;
+    color: white;
+    line-height: 2;
+    border: ridge;
+    border-width: 5px;
+    border-color: #C64B8C;
+    font-family: 'Caveat', cursive;
+    letter-spacing: 1.5;
+    word-spacing: 2;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 15px;
+    box-shadow: 10px 15px 17px black;
+}
+
+video{
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+#inputt{
+    margin-top: 500px;
+    font-size: 25px;
+}
